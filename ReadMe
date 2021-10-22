@@ -1,4 +1,11 @@
 This is a Audio Workstation that is usefull towards music channels on youtube!
+NOTE: make 4 extra folders called:
+1. songs - input .mp3 files here when running the Bass booster as this is where it reads the file to boost
+2. images - where the image downloader tool saves to
+3. Downloads - where the spotify to mp3 downloader saves to
+4. boosted - where the bass boosted songs get saved to
+
+
 Whats included:
 Image downloader
 Youtube to mp3
